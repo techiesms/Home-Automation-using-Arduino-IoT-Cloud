@@ -1,0 +1,22 @@
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:esp32doit-devkit-v1:DebugLevel=none,FlashFreq=80,UploadSpeed=921600",
+    "name": "DOIT ESP32 DEVKIT V1",
+    "type": "serial"
+  },
+  "secrets": [
+    {
+      "name": "SECRET_SSID",
+      "value": ""
+    },
+    {
+      "name": "SECRET_PASS",
+      "value": ""
+    },
+    {
+      "name": "SECRET_DEVICE_KEY",
+      "value": ""
+    }
+  ],
+  "included_libs": []
+}
